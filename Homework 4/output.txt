@@ -1,0 +1,43 @@
+Homework #4
+Morgan Maness
+010813680
+
+java ProducerConsumer 20 5 1
+Using arguments from command line
+Sleep time = 20
+Producer threads = 5
+Consumer threads = 1
+Producer produces 4383
+Producer produces 4658
+Producer produces 2733
+Producer produces 4512
+Producer produces 6369
+	 Consumer consumed 4383
+Producer produces 9269
+	 Consumer consumed 4658
+Producer produces 9329
+	 Consumer consumed 2733
+	 Consumer consumed 4512
+Producer produces 1724
+Producer produces 6754
+	 Consumer consumed 6369
+	 Consumer consumed 9269
+Producer produces 5622
+Producer produces 9657
+	 Consumer consumed 9329
+	 Consumer consumed 1724
+Producer produces 1292
+	 Consumer consumed 6754
+Producer produces 3985
+	 Consumer consumed 5622
+Producer produces 5181
+	 Consumer consumed 9657
+	 Consumer consumed 1292
+	 Consumer consumed 3985
+Producer produces 4985
+Producer produces 4228
+	 Consumer consumed 5181
+Producer produces 2588
+Producer produces 6180
+	 Consumer consumed 4985
+	 Consumer consumed 4228
